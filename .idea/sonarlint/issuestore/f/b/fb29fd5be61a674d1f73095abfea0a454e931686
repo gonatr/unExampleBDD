@@ -1,0 +1,15 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(ÿÒøC8´ñœÚ™1
+Q
+java:S3740*"/Provide the parametrized type for this generic.(ò¢øşúÿÿÿÿ8¶ñœÚ™1
+t
+java:S1104"XMake appiumDriver a static final constant or non-public and provide accessors if needed.(ÿÒøC8¸ñœÚ™1
+N
+java:S1444"2Make this "public static appiumDriver" field final(ÿÒøC8¸ñœÚ™1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÇÁÌıÿÿÿÿ8İñœÚ™1
+X
+java:S2696*"6Make the enclosing method "static" or remove this set.(ò¢øşúÿÿÿÿ8îñœÚ™1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(åÇòÉúÿÿÿÿ8òñœÚ™1
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(à˜Âı8ôñœÚ™1
